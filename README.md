@@ -1,5 +1,8 @@
 # STEPS TO RUN THE PROJECT
-1: After cloning or downloading this repository to your device, install the required libraries. Run the following command in your terminal to install the libraries listed in requirements.txt: 
+1: After cloning or downloading this repository to your device, install the required libraries. Run the following command in your terminal to install the libraries listed in 
+> requirements.txt
+> 
+Run the below:
 > pip install -r requirements.txt
 
 2: Obtain an API key:
